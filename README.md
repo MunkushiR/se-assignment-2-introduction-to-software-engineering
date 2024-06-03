@@ -51,11 +51,11 @@ Requirements engineering involves gathering, analyzing, documenting, and managin
 odularity in software design involves breaking down systems into smaller, independent components, improving maintainability by isolating changes and easing debugging, while also enhancing scalability through incremental development and resource efficiency.
 
 # 7. Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
-
+The different levels of software testing are unit testing (testing individual components), integration testing (testing interactions between components), system testing (testing the entire system), and acceptance testing (validating against user requirements). Testing is crucial in software development because it ensures quality, detects defects early, validates functionality, mitigates risks, builds confidence, and complies with regulations.
 # 8. What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
-
+Version control systems (VCS) track changes to files and directories, crucial in software development for collaboration, version management, backup, quality assurance, and flexible workflows. Examples include Git (distributed), SVN (centralized), Mercurial (distributed), Perforce (centralized), and Microsoft TFVC (centralized).
 # 9. Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
-
+The software project manager oversees planning, execution, and delivery of software projects. Responsibilities include planning, team leadership, communication, risk management, quality assurance, budget management, and change management. Challenges include scope creep, resource constraints, technical complexity, stakeholder expectations, schedule pressures, team dynamics, and external dependencies.
 # 10. Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
 # 11. What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
