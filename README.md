@@ -39,14 +39,16 @@ Implement updates and fixes.
 
 
 #  3. Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Agile emphasizes flexibility and iterative development, while Waterfall follows a sequential, fixed plan; Agile encourages ongoing customer collaboration, whereas Waterfall involves customers primarily at the beginning and end; Agile allows for changes throughout the process, whereas Waterfall follows a more rigid plan; Agile values working software over comprehensive documentation, whereas Waterfall emphasizes thorough documentation at each stage; Agile typically delivers working software in shorter iterations, while Waterfall may take longer to deliver a complete product.
 
 # 4. What is requirements engineering? 
-
+Requirements engineering is the systematic process of gathering, analyzing, documenting, and managing the needs and expectations of stakeholders for a software system. It involves identifying, defining, and prioritizing functional and non-functional requirements to ensure that the resulting software meets the desired objectives and specifications.
 
 # 5. Describe the process and its importance in the software development lifecycle.
+Requirements engineering involves gathering, analyzing, documenting, and managing stakeholder needs for a software system. It ensures alignment between the software and stakeholder expectations, reduces risks, enhances efficiency, facilitates communication, and enables effective project management throughout the software development lifecycle.
 
 # 6. Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-
+odularity in software design involves breaking down systems into smaller, independent components, improving maintainability by isolating changes and easing debugging, while also enhancing scalability through incremental development and resource efficiency.
 
 # 7. Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
